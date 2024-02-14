@@ -1,0 +1,121 @@
+{
+  "name": "Demo Data",
+  "description": "A sample JSON file for demonstration purposes",
+  "version": "1.0",
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john@example.com",
+        "age": 28
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "age": 25
+      },
+      {
+        "id": 3,
+        "username": "alice_jones",
+        "email": "alice@example.com",
+        "age": 32
+      },
+      {
+        "id": 4,
+        "username": "bob_miller",
+        "email": "bob@example.com",
+        "age": 30
+      },
+      {
+        "id": 5,
+        "username": "emma_wilson",
+        "email": "emma@example.com",
+        "age": 26
+      },
+      {
+        "id": 6,
+        "username": "samuel_brown",
+        "email": "samuel@example.com",
+        "age": 35
+      },
+      {
+        "id": 7,
+        "username": "olivia_white",
+        "email": "olivia@example.com",
+        "age": 22
+      },
+      {
+        "id": 8,
+        "username": "charlie_smith",
+        "email": "charlie@example.com",
+        "age": 29
+      },
+      {
+        "id": 9,
+        "username": "hannah_clark",
+        "email": "hannah@example.com",
+        "age": 31
+      },
+      {
+        "id": 10,
+        "username": "david_martin",
+        "email": "david@example.com",
+        "age": 27
+      }
+    ],
+    "products": [
+      {
+        "id": "p001",
+        "name": "Product A",
+        "price": 19.99
+      },
+      {
+        "id": "p002",
+        "name": "Product B",
+        "price": 29.99
+      },
+      {
+        "id": "p003",
+        "name": "Product C",
+        "price": 39.99
+      },
+      {
+        "id": "p004",
+        "name": "Product D",
+        "price": 49.99
+      },
+      {
+        "id": "p005",
+        "name": "Product E",
+        "price": 59.99
+      },
+      {
+        "id": "p006",
+        "name": "Product F",
+        "price": 69.99
+      },
+      {
+        "id": "p007",
+        "name": "Product G",
+        "price": 79.99
+      },
+      {
+        "id": "p008",
+        "name": "Product H",
+        "price": 89.99
+      },
+      {
+        "id": "p009",
+        "name": "Product I",
+        "price": 99.99
+      },
+      {
+        "id": "p010",
+        "name": "Product J",
+        "price": 109.99
+      }
+    ]
+  }
+}
